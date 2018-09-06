@@ -1,0 +1,8 @@
+[package]
+name = "pcd"
+version = "0.1.0"
+authors = ["clynamen <clynamen@gmail.com>"]
+
+[dependencies]
+derive_builder = "*"
+itertools = "*"
